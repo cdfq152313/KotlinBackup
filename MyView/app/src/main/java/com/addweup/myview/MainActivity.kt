@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
-    var indicator: Indicator? = null
+    var indicator: ProgressIndicator? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressIndicator">
+        <attr name="tailLength" format="dimension"/>
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="dotCount" format="integer"/>
+        <attr name="dotRadius" format="dimension"/>
+        <attr name="dotStrokeWidth" format="dimension"/>
+        <attr name="progressBg" format="color|reference"/>
+        <attr name="progressFg" format="color|reference"/>
+        <attr name="progressFg2" format="color|reference"/>
+    </declare-styleable>
+</resources>
